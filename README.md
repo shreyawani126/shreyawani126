@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shreyawani126
-- 👀 I’m interested in Web developement and Data analytics
-- 🌱 I’m currently learning Frontend Technologies.
-- 💞️ I’m looking to collaborate on web related projects
+- 👀 I’m interested in Data analytics
+- 🌱 I’m currently learning data analysis tools (Excel,SQL,Power BI,Python).
+- 💞️ I’m currently enhancing my skills and looking to collaborate in data analysis related projects.
 - 📫 How to reach me wanishreya78@gmail.com
+- Linked in:https://linkedin.com/in/shreya-wani-b46594203/
 
 <!---
 shreyawani126/shreyawani126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
