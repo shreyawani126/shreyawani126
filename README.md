@@ -1,6 +1,6 @@
 - 👋 Hi, I am Shreya Wani
 - 👀 I’m interested in Data analytics
-- 📈 I’m currently learning data analysis tools (Excel,SQL,Power BI,Python).
+- 📈 I’m currently learning data analysis tools (Excel,SQL,Power BI,Python,Numpy,Pandas,Matplotlib,Seaborn).
 - 📊 I’m currently enhancing my skills and looking to collaborate in data analysis related projects.
 - 📫 How to reach me wanishreya78@gmail.com
 - Linkedin: https://linkedin.com/in/shreya-wani-b46594203/
